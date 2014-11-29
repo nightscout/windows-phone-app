@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="19267AliMaz.NightScoutforWindowsPhonewithLiveTile" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-US</Language>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://19267AliMaz.NightScoutforWindowsPhonewithLiveTile/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ApplicationInsights.config" uri="ms-resource://19267AliMaz.NightScoutforWindowsPhonewithLiveTile/Files/ApplicationInsights.config">
+				<Candidate type="Path">
+					<Value>ApplicationInsights.config</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://19267AliMaz.NightScoutforWindowsPhonewithLiveTile/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NightScout.WindowsPhone.xr.xml" uri="ms-resource://19267AliMaz.NightScoutforWindowsPhonewithLiveTile/Files/NightScout.WindowsPhone.xr.xml">
+				<Candidate type="Path">
+					<Value>NightScout.WindowsPhone.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Settings.xbf" uri="ms-resource://19267AliMaz.NightScoutforWindowsPhonewithLiveTile/Files/Settings.xbf">
+				<Candidate type="Path">
+					<Value>Settings.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://19267AliMaz.NightScoutforWindowsPhonewithLiveTile/Files/Assets/BadgeLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\BadgeLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://19267AliMaz.NightScoutforWindowsPhonewithLiveTile/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logomobile.png" uri="ms-resource://19267AliMaz.NightScoutforWindowsPhonewithLiveTile/Files/Assets/logomobile.png">
+					<Candidate type="Path">
+						<Value>Assets\logomobile.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://19267AliMaz.NightScoutforWindowsPhonewithLiveTile/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://19267AliMaz.NightScoutforWindowsPhonewithLiveTile/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://19267AliMaz.NightScoutforWindowsPhonewithLiveTile/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://19267AliMaz.NightScoutforWindowsPhonewithLiveTile/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://19267AliMaz.NightScoutforWindowsPhonewithLiveTile/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Html">
+				<NamedResource name="index.html" uri="ms-resource://19267AliMaz.NightScoutforWindowsPhonewithLiveTile/Files/Html/index.html">
+					<Candidate type="Path">
+						<Value>Html\index.html</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="css">
+					<NamedResource name="phone.css" uri="ms-resource://19267AliMaz.NightScoutforWindowsPhonewithLiveTile/Files/Html/css/phone.css">
+						<Candidate type="Path">
+							<Value>Html\css\phone.css</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<ResourceMapSubtree name="ForwardAppBarButton">
+				<NamedResource name="Label" uri="ms-resource://19267AliMaz.NightScoutforWindowsPhonewithLiveTile/Resources/ForwardAppBarButton/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>forward</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="HomeAppBarButton">
+				<NamedResource name="Label" uri="ms-resource://19267AliMaz.NightScoutforWindowsPhonewithLiveTile/Resources/HomeAppBarButton/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>home</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

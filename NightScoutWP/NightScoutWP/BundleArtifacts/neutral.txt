@@ -1,0 +1,4 @@
+MainPackage=C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\bin\Release\NightScout.WindowsPhone_1.1.0.1_AnyCPU.appx
+SymbolPackage=C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\AppPackages\NightScout.WindowsPhone_1.1.0.1_Test\NightScout.WindowsPhone_1.1.0.1_AnyCPU.appxsym
+ResourcePack=C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\bin\Release\NightScout.WindowsPhone_1.1.0.1_scale-100.appx
+ResourcePack=C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\bin\Release\NightScout.WindowsPhone_1.1.0.1_scale-140.appx

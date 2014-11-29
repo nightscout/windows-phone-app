@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <file>\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.winmd</file>
+  <file>\Microsoft.ApplicationInsights.Extensibility.Windows.winmd</file>
+  <file>\Microsoft.ApplicationInsights.winmd</file>
+  <file>\Newtonsoft.Json.dll</file>
+  <file>\System.Net.Http.Extensions.dll</file>
+  <file>\System.Net.Http.Primitives.dll</file>
+  <file>\NightScout.LiveTile.winmd</file>
+  <file>\NightScout.WindowsPhone.exe</file>
+</Files>

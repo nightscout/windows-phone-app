@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22310.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NightScout.WindowsPhone", "NightScoutWP\NightScout.WindowsPhone.csproj", "{51F21162-7676-453E-9BEC-A3E4CC04A99E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NightScout.LiveTile", "NightScout.LiveTile\NightScout.LiveTile.csproj", "{BACD896F-E8DD-4E5A-909A-2B9269CCD8BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F21162-7676-453E-9BEC-A3E4CC04A99E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F21162-7676-453E-9BEC-A3E4CC04A99E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F21162-7676-453E-9BEC-A3E4CC04A99E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{51F21162-7676-453E-9BEC-A3E4CC04A99E}.Debug|ARM.ActiveCfg = Debug|ARM
+		{51F21162-7676-453E-9BEC-A3E4CC04A99E}.Debug|ARM.Build.0 = Debug|ARM
+		{51F21162-7676-453E-9BEC-A3E4CC04A99E}.Debug|ARM.Deploy.0 = Debug|ARM
+		{51F21162-7676-453E-9BEC-A3E4CC04A99E}.Debug|x86.ActiveCfg = Debug|x86
+		{51F21162-7676-453E-9BEC-A3E4CC04A99E}.Debug|x86.Build.0 = Debug|x86
+		{51F21162-7676-453E-9BEC-A3E4CC04A99E}.Debug|x86.Deploy.0 = Debug|x86
+		{51F21162-7676-453E-9BEC-A3E4CC04A99E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F21162-7676-453E-9BEC-A3E4CC04A99E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F21162-7676-453E-9BEC-A3E4CC04A99E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{51F21162-7676-453E-9BEC-A3E4CC04A99E}.Release|ARM.ActiveCfg = Release|ARM
+		{51F21162-7676-453E-9BEC-A3E4CC04A99E}.Release|ARM.Build.0 = Release|ARM
+		{51F21162-7676-453E-9BEC-A3E4CC04A99E}.Release|ARM.Deploy.0 = Release|ARM
+		{51F21162-7676-453E-9BEC-A3E4CC04A99E}.Release|x86.ActiveCfg = Release|x86
+		{51F21162-7676-453E-9BEC-A3E4CC04A99E}.Release|x86.Build.0 = Release|x86
+		{51F21162-7676-453E-9BEC-A3E4CC04A99E}.Release|x86.Deploy.0 = Release|x86
+		{BACD896F-E8DD-4E5A-909A-2B9269CCD8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACD896F-E8DD-4E5A-909A-2B9269CCD8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACD896F-E8DD-4E5A-909A-2B9269CCD8BA}.Debug|ARM.ActiveCfg = Debug|ARM
+		{BACD896F-E8DD-4E5A-909A-2B9269CCD8BA}.Debug|ARM.Build.0 = Debug|ARM
+		{BACD896F-E8DD-4E5A-909A-2B9269CCD8BA}.Debug|x86.ActiveCfg = Debug|x86
+		{BACD896F-E8DD-4E5A-909A-2B9269CCD8BA}.Debug|x86.Build.0 = Debug|x86
+		{BACD896F-E8DD-4E5A-909A-2B9269CCD8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACD896F-E8DD-4E5A-909A-2B9269CCD8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BACD896F-E8DD-4E5A-909A-2B9269CCD8BA}.Release|ARM.ActiveCfg = Release|ARM
+		{BACD896F-E8DD-4E5A-909A-2B9269CCD8BA}.Release|ARM.Build.0 = Release|ARM
+		{BACD896F-E8DD-4E5A-909A-2B9269CCD8BA}.Release|x86.ActiveCfg = Release|x86
+		{BACD896F-E8DD-4E5A-909A-2B9269CCD8BA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

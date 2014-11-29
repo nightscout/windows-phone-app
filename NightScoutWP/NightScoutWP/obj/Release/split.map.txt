@@ -1,0 +1,21 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-240"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\split.pri"			"resources.pri"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\Settings.xbf"			"Settings.xbf"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\NightScout.WindowsPhone.xr.xml"			"NightScout.WindowsPhone.xr.xml"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\MainPage.xbf"			"MainPage.xbf"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\Html\index.html"			"Html\index.html"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\Html\css\phone.css"			"Html\css\phone.css"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\Assets\WideLogo.scale-240.png"			"Assets\WideLogo.scale-240.png"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\Assets\StoreLogo.scale-240.png"			"Assets\StoreLogo.scale-240.png"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\Assets\Square71x71Logo.scale-240.png"			"Assets\Square71x71Logo.scale-240.png"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\Assets\SplashScreen.scale-240.png"			"Assets\SplashScreen.scale-240.png"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\Assets\SmallLogo.scale-240.png"			"Assets\SmallLogo.scale-240.png"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\Assets\logomobile.png"			"Assets\logomobile.png"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\Assets\Logo.scale-240.png"			"Assets\Logo.scale-240.png"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\Assets\BadgeLogo.scale-240.png"			"Assets\BadgeLogo.scale-240.png"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\ApplicationInsights.config"			"ApplicationInsights.config"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\App.xbf"			"App.xbf"

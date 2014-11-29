@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\alimaz\documents\visual studio 2015\projects\nightscoutwp\nightscoutwp\obj\debug\intermediatexaml\nightscout.windowsphone.exe" HashGuid="f83fec75-b3cc-eb86-4e13-5b85b7fbf990" />
+    <ReferenceAssembly PathName="c:\users\alimaz\documents\visual studio 2015\projects\nightscoutwp\packages\microsoft.applicationinsights.runtimetelemetry.0.11.1-build00694\lib\portable-win81+wpa81\microsoft.applicationinsights.extensibility.runtimetelemetry.winmd" HashGuid="e8ffcc49-b552-58ee-7b16-8fba2f1f880a" />
+    <ReferenceAssembly PathName="c:\users\alimaz\documents\visual studio 2015\projects\nightscoutwp\packages\microsoft.applicationinsights.windowsphone.0.11.1-build00694\lib\wpa81\microsoft.applicationinsights.extensibility.windows.winmd" HashGuid="2cc9fd37-9839-0765-e369-aa937f791053" />
+    <ReferenceAssembly PathName="c:\users\alimaz\documents\visual studio 2015\projects\nightscoutwp\packages\microsoft.applicationinsights.0.11.1-build00694\lib\portable-win81+wpa81\microsoft.applicationinsights.winmd" HashGuid="3232f9fa-00ef-9384-cb76-87569394cf07" />
+    <ReferenceAssembly PathName="c:\users\alimaz\documents\visual studio 2015\projects\nightscoutwp\packages\newtonsoft.json.6.0.6\lib\portable-net40+sl5+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="9e796421-3b84-3ec5-6e39-cb6d41d020b7" />
+    <ReferenceAssembly PathName="c:\users\alimaz\documents\visual studio 2015\projects\nightscoutwp\nightscout.livetile\bin\debug\nightscout.livetile.winmd" HashGuid="6d2c1072-1aa4-500b-a23f-fdf047b2fb02" />
+    <ReferenceAssembly PathName="c:\users\alimaz\documents\visual studio 2015\projects\nightscoutwp\packages\microsoft.net.http.2.2.28\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="c:\users\alimaz\documents\visual studio 2015\projects\nightscoutwp\packages\microsoft.net.http.2.2.28\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

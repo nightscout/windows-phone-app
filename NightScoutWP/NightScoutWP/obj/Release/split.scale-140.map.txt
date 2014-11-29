@@ -1,0 +1,12 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-140"
+"ResourceDimensions"		"scale-140"
+
+[Files]
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\split.scale-140.pri"			"resources.pri"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\Assets\WideLogo.scale-140.png"			"Assets\WideLogo.scale-140.png"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\Assets\StoreLogo.scale-140.png"			"Assets\StoreLogo.scale-140.png"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\Assets\Square71x71Logo.scale-140.png"			"Assets\Square71x71Logo.scale-140.png"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\Assets\SmallLogo.scale-140.png"			"Assets\SmallLogo.scale-140.png"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\Assets\Logo.scale-140.png"			"Assets\Logo.scale-140.png"
+"C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\obj\Release\PackageLayout\Assets\BadgeLogo.scale-140.png"			"Assets\BadgeLogo.scale-140.png"

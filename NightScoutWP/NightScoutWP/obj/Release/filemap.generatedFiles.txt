@@ -1,0 +1,6 @@
+obj\Release\filemap.pri
+obj\Release\filemap.map.txt
+obj\Release\filemap.scale-100.pri
+obj\Release\filemap.scale-100.map.txt
+obj\Release\filemap.scale-140.pri
+obj\Release\filemap.scale-140.map.txt

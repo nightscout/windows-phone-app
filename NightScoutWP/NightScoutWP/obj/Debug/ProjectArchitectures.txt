@@ -1,0 +1,2 @@
+C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScout.LiveTile\NightScout.LiveTile.csproj;neutral
+C:\Users\alimaz\Documents\Visual Studio 2015\Projects\NightScoutWP\NightScoutWP\NightScout.WindowsPhone.csproj;neutral

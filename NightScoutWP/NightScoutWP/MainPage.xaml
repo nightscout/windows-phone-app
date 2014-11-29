@@ -1,0 +1,36 @@
+﻿<Page
+    x:Class="NightScout.WindowsPhone.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:NightScout.WindowsPhone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <WebView x:Name="WebViewControl"
+             HorizontalAlignment="Stretch"
+             VerticalAlignment="Stretch"
+             NavigationCompleted="Browser_NavigationCompleted" />
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <CommandBar.PrimaryCommands>
+                <AppBarButton
+                    x:Name="RefreshAppBarButton"
+                    x:Uid="RefreshAppBarButton"
+                    Click="RefreshAppBarButton_Click"
+                    Icon="Refresh"
+                    Label="Refresh"/>
+             <AppBarButton
+                    x:Name="SettingsAppBarButton"
+                    x:Uid="SettingsAppBarButton"
+                    Click="SettingsAppBarButton_Click"
+                    Label="Settings"
+                    Icon="Setting"
+                    />   
+            </CommandBar.PrimaryCommands>
+            
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
