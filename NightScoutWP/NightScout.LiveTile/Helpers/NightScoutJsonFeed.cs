@@ -41,14 +41,10 @@ namespace NightScout.LiveTile
                     direction = '\x25BC';
 
                 string notification = String.Format("Current bg: {0} \r\nTrend: {1} \r\nBattery: {2}% ", bg, direction.ToString(), battery);
-                XmlDocument tileXml = TileUpdateManager.GetTemplateContent(TileTemplateType.TileWide310x150ImageAndText01);
 
+                XmlDocument tileXml = TileUpdateManager.GetTemplateContent(TileTemplateType.TileWide310x150Text01);
                 XmlNodeList tileTextAttributes = tileXml.GetElementsByTagName("text");
-                tileTextAttributes[0].InnerText = "NightScout";
-
-                XmlNodeList tileImageAttributes = tileXml.GetElementsByTagName("image");
-                ((XmlElement)tileImageAttributes[0]).SetAttribute("src", "ms-appx:///assets/logomobile.png");
-                ((XmlElement)tileImageAttributes[0]).SetAttribute("alt", "red graphic");
+                tileTextAttributes[0].InnerText = notification;
 
                 XmlDocument squareTileXml = TileUpdateManager.GetTemplateContent(TileTemplateType.TileSquare150x150Text04);
                 XmlNodeList squareTileTextAttributes = squareTileXml.GetElementsByTagName("text");
@@ -75,16 +71,9 @@ namespace NightScout.LiveTile
                 {
                     ToastTemplateType toastTemplate = ToastTemplateType.ToastImageAndText01;
                     XmlDocument toastXml = ToastNotificationManager.GetTemplateContent(toastTemplate);
-
                     XmlNodeList toastTextElements = toastXml.GetElementsByTagName("text");
-
-                    toastTextElements[0].AppendChild(toastXml.CreateTextNode(String.Format("Current bg: {0} Trend: {1}", bg, direction.ToString())));
-                    
-                    //XmlNodeList toastImageAttributes = toastXml.GetElementsByTagName("image");
-                    
-                    //((XmlElement)toastImageAttributes[0]).SetAttribute("src", "ms-appx:///assets/redWide.png");
-                    //((XmlElement)toastImageAttributes[0]).SetAttribute("alt", "red graphic");
-                    
+                    toastTextElements[0].AppendChild(toastXml.CreateTextNode(String.Format("Current bg: {0} Trend: {1}", bg, direction.ToString())));                   
+                                       
                     IXmlNode toastNode = toastXml.SelectSingleNode("/toast");
                     ((XmlElement)toastNode).SetAttribute("duration", "long");
                     XmlElement audio = toastXml.CreateElement("audio");
@@ -94,11 +83,10 @@ namespace NightScout.LiveTile
                     ToastNotificationManager.CreateToastNotifier().Show(toast);
                 }
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                Debug.WriteLine(ex.ToString());
+                throw;
             }
-
 
         }
     }
