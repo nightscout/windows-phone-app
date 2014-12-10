@@ -38,7 +38,7 @@ using Windows.Foundation;
                     deferral.Complete();
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
                throw
                //TODO: Add an App Unhandled Exception handler
