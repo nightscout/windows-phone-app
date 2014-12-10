@@ -83,7 +83,7 @@ namespace NightScout.LiveTile
                     ToastNotificationManager.CreateToastNotifier().Show(toast);
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
                 throw;
             }
